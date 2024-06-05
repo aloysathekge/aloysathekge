@@ -6,7 +6,7 @@
 
    👨‍💻 **Job** : Unemployed, still searching(internships,junior positions), please help if you can😊 <br/>
   
-   📖 **Learning** : Animations in React Native with Reanimated.<br/>
+   📖 **Learning** : Enrolled in Machine Learning specialized course on Coursera.<br/>
   
    ⚙**Side Project** : Working for startup that's building a music platform [Utlwa](https://utlwa.app), I am focusing on mobile app with React Native 
 
