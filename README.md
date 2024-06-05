@@ -4,7 +4,8 @@
 <sub><span style="color:gray">Updated on: May 22, 2024</span></sub> <br/>
 
 📖 **Learning** : Animations in React Native with Reanimated.<br/>
-👨‍💻 **Job** : Unemployed, still searching(internships,junior positions), please help if you can😊
+👨‍💻 **Job** : Unemployed, still searching(internships,junior positions), please help if you can😊 <br/>
+⚙ **Side Project** : A music mobile app using Typescript, React Native, Expo, Firebase <br/>
 
 ### Stack
 
@@ -14,6 +15,7 @@
 ![Python](https://img.shields.io/badge/PostgreSQL-05122A?style=plastic&logo=PostgreSQL&logoColor=3776AB)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-05122A?&style=plastic&logo=database&logoColor=025E8C)
 ![Git](https://img.shields.io/badge/supabase-05122A?style=plastic&logo=supabase&logoColor=1C8139)
+![Git](https://img.shields.io/badge/firebase-05122A?style=plastic&logo=Firebase&logoColor=F7F701)
 ![Git](https://img.shields.io/badge/git-05122A?style=plastic&logo=git&logoColor=FF4400)
 
 
