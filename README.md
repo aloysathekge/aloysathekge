@@ -1,5 +1,7 @@
 # ![Hi, I'm Aloy](https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&duration=2000&center=true&vCenter=true&multiline=true&width=250&height=40&lines=Hi%2C+I'm+Aloy!👋🏼;+;+)
-
+### Currently
+📖 Learning : Animations in React Native with Reanimated.<br/>
+👨‍💻 Job : still searching, please help if you can😊
 ### Skills
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=plastic&logo=TypeScript&logoColor=3776AB)
