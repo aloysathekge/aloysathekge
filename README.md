@@ -1,8 +1,9 @@
-# ![Hi, I'm Aloy](https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&duration=2000&center=true&vCenter=true&multiline=true&width=250&height=40&lines=Hi%2C+I'm+Aloy!👋🏼;+;+)
+# ![Hi, I'm Aloy](https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&duration=2000&center=true&vCenter=true&multiline=true&width=750&height=40&lines=Hi%2C+I'm+Aloy.+I+am+an+Engineer;+;+;+)
+
 ### Currently
-📖 Learning : Animations in React Native with Reanimated.<br/>
-👨‍💻 Job : still searching, please help if you can😊
-### Skills
+📖 **Learning** : Animations in React Native with Reanimated.<br/>
+👨‍💻 **Job** : still searching(internships,junior positions), please help if you can😊
+### Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=plastic&logo=TypeScript&logoColor=3776AB)
 ![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
