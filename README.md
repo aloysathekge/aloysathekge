@@ -8,7 +8,7 @@
   
    📖 **Learning** : Enrolled in Machine Learning specialized course on Coursera.<br/>
   
-   ⚙**Side Project** : Working for startup that's building a music platform [Utlwa](https://utlwa.app), I am focusing on mobile app with React Native 
+   ⚙**Side Project** : Working for startup that's building a music platform [Utlwa](https://utlwa.app), I am focusing on mobile app dev with React Native 
 
 
 
