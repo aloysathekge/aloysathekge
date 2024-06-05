@@ -1,15 +1,18 @@
 # ![Hi, I'm Aloy](https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&duration=2000&center=true&vCenter=true&multiline=true&width=750&height=40&lines=Hi%2C+I'm+Aloy.+I+am+an+Engineer;+;+;+)
 
-# Currently
+# Currently:
 ### Updated on : June 1, 2024</span></sub> <br/>
 
-📖 **Learning** : Animations in React Native with Reanimated.<br/>
 
-👨‍💻 **Job** : Unemployed, still searching(internships,junior positions), please help if you can😊 <br/>
+   👨‍💻 **Job** : Unemployed, still searching(internships,junior positions), please help if you can😊 <br/>
+  
+   📖 **Learning** : Animations in React Native with Reanimated.<br/>
+  
+   ⚙**Side Project** : Working for startup that's building a music platform [Utlwa](https://utlwa.app), I am focusing on mobile app with React Native 
 
-⚙**Side Project** : Working for startup that's building a music platform [Utlwa](https://utlwa.app), I am focusing on mobile app with React Native 
 
-# Skills
+
+# Skills:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=plastic&logo=TypeScript&logoColor=3776AB)
 ![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
