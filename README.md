@@ -1,4 +1,4 @@
-# ![Hi, I'm Aloysius](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Aloysius!👋🏼;+;+)
+# ![Hi,I'm Aloysius](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Aloysius!👋🏼;+;+)
 
 <!--
 **aloysathekge/aloysathekge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
