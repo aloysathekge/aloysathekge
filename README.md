@@ -1,14 +1,14 @@
 # ![Hi, I'm Aloy](https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&duration=2000&center=true&vCenter=true&multiline=true&width=750&height=40&lines=Hi%2C+I'm+Aloy.+I+am+an+Engineer;+;+;+)
 
 # Currently:
-### Updated on : October 18, 2024</span></sub> <br/>
+### Updated on : December 17, 2024</span></sub> <br/>
 
 
    👨‍💻 **Job** :Mobile engineering at Newpaper <br/>
   
-   📖 **Learning** : Operating Systems.<br/>
+   📖 **Learning** : RAG.<br/>
   
-   ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), I am focusing on mobile app dev with React Native 
+   ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), Mobile Dev.
 
 
 
