@@ -6,7 +6,7 @@
 
    👨‍💻 **Job** :Mobile engineering at Newpaper <br/>
   
-   📖 **Learning** : RAG.<br/>
+   📖 **Learning** : Neural Networks.<br/>
   
    ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), Mobile Dev.
 
