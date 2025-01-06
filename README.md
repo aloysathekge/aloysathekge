@@ -4,7 +4,7 @@
 ### Updated on : January 01, 2025</span></sub> <br/>
 
 
-   👨‍💻 **Job** :Mobile engineering at [Newpaper](https://newpaper.app) <br/>
+   👨‍💻 **Job** :Mobile engineering at [Newpaper](https://newpaper.app). <br/>
   
    📖 **Learning** : Neural Networks.<br/>
   
