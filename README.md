@@ -8,7 +8,7 @@
   
    📖 **Learning** : Neural Networks.<br/>
   
-   ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), Kotlin , React Native and Swift.
+   ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), with Kotlin , React Native and Swift.
 
 
 
