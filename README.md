@@ -11,7 +11,6 @@
    ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), with Kotlin , React Native and Swift.
 
 
-
 # Skills:
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=plastic&logo=TypeScript&logoColor=3776AB)
