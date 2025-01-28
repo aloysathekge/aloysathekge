@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/supabase-05122A?style=plastic&logo=supabase&logoColor=1C8139)
 ![Git](https://img.shields.io/badge/firebase-05122A?style=plastic&logo=Firebase&logoColor=F7F701)
 ![Git](https://img.shields.io/badge/git-05122A?style=plastic&logo=git&logoColor=FF4400)
-![Kotlin](https://img.shields.io/badge/kotlin-05122A?style=plastic&logo=Kotlin&logoColor=FF4400)
+![Swift](https://img.shields.io/badge/swift-05122A?style=plastic&logo=swift&logoColor=FF4400)
 
 
 
