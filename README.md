@@ -6,7 +6,7 @@
 
    👨‍💻 **Job** :Mobile engineering at [Newpaper](https://newpaper.app). <br/>
   
-   📖 **Learning** : Java.<br/>
+   📖 **Learning** : brushing on Java OOP.<br/>
   
    ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), with Kotlin, React Native and Swift.
 
