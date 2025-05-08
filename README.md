@@ -4,7 +4,7 @@
 ### Updated on : April 26 2025</span></sub> <br/>
 
 
-   👨‍💻 **Job** :Mobile engineering at [Newpaper](https://newpaper.app). <br/>
+   👨‍💻 **Job** :. <br/>
   
    📖 **Learning** :brushing on Java OOP.<br/>
   
