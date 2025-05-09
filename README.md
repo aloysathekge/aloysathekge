@@ -4,11 +4,11 @@
 ### Updated on : April 26 2025</span></sub> <br/>
 
 
-   👨‍💻 **Job** :. <br/>
+   👨‍💻 **Job** : <br/>
   
-   📖 **Learning** :brushing on Java OOP.<br/>
+   📖 **Learning** :.<br/>
   
-   ⚙**Project** : Co building a music platform [Utlwa](https://utlwa.app), with Kotlin, React Native and Swift.
+   ⚙**Project** : .
 
 
 # Skills:
