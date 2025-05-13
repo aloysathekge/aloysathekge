@@ -1,7 +1,7 @@
 # ![Hi, I'm Aloy](https://readme-typing-svg.demolab.com?color=%2336BCF7&size=21&duration=2000&center=true&vCenter=true&multiline=true&width=750&height=40&lines=Hi%2C+I'm+Aloy.+I+am+an+Engineer;+;+;+)
 
 # Currently:
-### Updated on : April 28 2025</span></sub> <br/>
+### Updated on : May 2 2025</span></sub> <br/>
 
 
    👨‍💻 **Job** : <br/>
